@@ -29,6 +29,7 @@ jobs:
             git config --global user.email 'github-actions[bot]@users.noreply.github.com'
   
         - name: Commit and push changes
+          continue-on-error: true
           run: |
             git add -A
             git commit -m "Converted markdown to PDF"
