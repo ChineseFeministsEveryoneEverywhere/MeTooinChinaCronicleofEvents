@@ -1,0 +1,35 @@
+# .github/workflows/convert-to-pdf.yml
+
+name: Convert markdown files to PDF
+# This workflow is triggered on pushes to the repository.
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v3
+  
+        - name: Convert markdown to PDF
+          uses: baileyjm02/markdown-to-pdf@v1
+          with:
+            input_dir: MeTooinChina_SimplifiedChinese
+            output_dir: MeTooinChina_SimplifiedChinese/
+            build_html: false
+            theme: styles/markdown-theme.css
+  
+        - name: Configure Git
+          run: |
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+  
+        - name: Commit and push changes
+          run: |
+            git add -A
+            git commit -m "Converted markdown to PDF"
+            git push
