@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    color: #000;
+    line-height: 1.5;
+    margin: 0;
+    padding: .6in;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 24pt;
+    margin-bottom: 0.5in;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15pt;
+    margin-bottom: 0.25in;
+}
+
+p, ul, ol {
+    margin-bottom: 0.15in;
+}
+
+ul, ol {
+    padding-left: 0.5in;
+}
+
+a {
+    color: #0000EE;
+    text-decoration: underline;
+}

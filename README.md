@@ -1,6 +1,6 @@
 # #MeToo 中国大事纪-Readme
 
-#MeToo 中国大事纪 (“本文档”）是对中国 #MeToo 相关事件的记录，是我们根据新闻报道、互联网公开资料，以及前人的成果，包括但不限于《中国米兔志》、#MeToo 在中国 网站、女权主义者们的文章，整理编辑而成的。能力有限，我们无法进一步求证或者为其真实性背书。但我们已经尽自己所能检索、查证、梳理了可得的资料。  
+#MeToo 中国大事纪（“本文档”）是对中国 #MeToo 相关事件的记录，是我们根据新闻报道、互联网公开资料，以及前人的成果，包括但不限于《中国米兔志》、#MeToo 在中国 网站、女权主义者们的文章，整理编辑而成的。能力有限，我们无法进一步求证或者为其真实性背书。但我们已经尽自己所能检索、查证、梳理了可得的资料。  
 
 在您阅读的时候，我们想要说明：  
 
@@ -14,7 +14,7 @@
 
 另外，
 
-**关于文档**：本文档包含[梗概版](https://github.com/ChineseFeministsEveryoneEverywhere/MeTooinChinaCronicleofEvents/blob/main/MeTooinChina_Simplified%20Chinese/MeTooinChina_Abstract_zh-CN.md)和[详细版](https://github.com/ChineseFeministsEveryoneEverywhere/MeTooinChinaCronicleofEvents/blob/main/MeTooinChina_Simplified%20Chinese/MeTooinChina_FullText_zh-CN.md)两部分。梗概版只收录 #MeToo 事件的基本事实，详细版收录了 #MeToo 事件更多详情。  
+**关于文档**：本文档包含[梗概版](https://github.com/ChineseFeministsEveryoneEverywhere/MeTooinChinaCronicleofEvents/blob/main/MeTooinChina_SimplifiedChinese/MeTooinChina_Abstract_zh-CN.md)和[详细版](https://github.com/ChineseFeministsEveryoneEverywhere/MeTooinChinaCronicleofEvents/blob/main/MeTooinChina_SimplifiedChinese/MeTooinChina_FullText_zh-CN.md)两部分。梗概版只收录 #MeToo 事件的基本事实，详细版收录了 #MeToo 事件更多详情。  
 
 **关于版权**：本文档版权适用 [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW) ，即在遵循标示来源、不商用、不改作、不增设额外限制的前提下，您可以自由分享使用本文档。  
 
